@@ -1,0 +1,6 @@
+{
+  "name": "Neon Commando 3D: Accidental Romance",
+  "description": "Cyberpunk 3D Action Run & Gun game with procedural audio, dynamic mecha combat, ally companion Abang, and an absurd visual novel romance easter egg.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
